@@ -1,0 +1,14 @@
+[36.37.83.50][15:48:57] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0323120244
+msgSTAN : 002123
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[36.37.83.50][15:48:57] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0802154857
+msgSTAN : 002123
+additionalData : 6011001112N003602
+networkCode : 001

@@ -1,0 +1,154 @@
+[36.37.83.50][10:44:54] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0323120244
+msgSTAN : 002123
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[36.37.83.50][10:44:54] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803104454
+msgSTAN : 002123
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[36.37.83.50][14:20:53] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0803071742
+msgSTAN : 007825
+networkCode : 301
+
+
+[36.37.83.50][14:20:53] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0803142053
+msgSTAN : 007825
+networkCode : 301
+
+
+[114.4.222.229][14:31:25] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0803071742
+msgSTAN : 007825
+networkCode : 301
+
+
+[114.4.222.229][14:31:25] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0803143125
+msgSTAN : 007825
+networkCode : 301
+
+
+[139.0.242.21][15:59:16] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][15:59:16] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803155916
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:02:41] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:02:41] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803160241
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:03:13] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:03:13] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803160313
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:03:15] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:03:15] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803160315
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[103.47.133.134][16:03:29] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[103.47.133.134][16:03:29] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803160329
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:07:00] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:07:00] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803160700
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:15:58] : QRSignOnRQ
+msgType : 0800
+transmissionDateTime : 0803084618
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001
+
+
+[139.0.242.21][16:15:58] : QRSignOnRS
+msgType : 0810
+transmissionDateTime : 0803161558
+msgSTAN : 007839
+additionalData : 6011001112N003602
+networkCode : 001

@@ -1,0 +1,880 @@
+[202.152.5.22][13:40:49] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805064049
+msgSTAN : 009110
+networkCode : 301
+
+
+[202.152.5.22][13:40:49] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805134049
+msgSTAN : 009110
+networkCode : 301
+
+
+[202.152.5.22][13:46:38] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805064638
+msgSTAN : 009111
+networkCode : 301
+
+
+[202.152.5.22][13:46:38] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805134638
+msgSTAN : 009111
+networkCode : 301
+
+
+[202.152.5.22][13:56:38] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805065638
+msgSTAN : 009112
+networkCode : 301
+
+
+[202.152.5.22][13:56:38] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805135638
+msgSTAN : 009112
+networkCode : 301
+
+
+[202.152.5.22][14:06:38] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805070638
+msgSTAN : 009113
+networkCode : 301
+
+
+[202.152.5.22][14:06:38] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805140638
+msgSTAN : 009113
+networkCode : 301
+
+
+[202.152.5.22][14:16:38] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805071638
+msgSTAN : 009114
+networkCode : 301
+
+
+[202.152.5.22][14:16:38] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805141638
+msgSTAN : 009114
+networkCode : 301
+
+
+[202.152.5.22][14:26:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805072639
+msgSTAN : 009115
+networkCode : 301
+
+
+[202.152.5.22][14:26:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805142639
+msgSTAN : 009115
+networkCode : 301
+
+
+[202.152.5.22][14:36:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805073639
+msgSTAN : 009116
+networkCode : 301
+
+
+[202.152.5.22][14:36:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805143639
+msgSTAN : 009116
+networkCode : 301
+
+
+[202.152.5.22][14:46:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805074639
+msgSTAN : 009117
+networkCode : 301
+
+
+[202.152.5.22][14:46:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805144639
+msgSTAN : 009117
+networkCode : 301
+
+
+[202.152.5.22][14:56:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805075639
+msgSTAN : 009118
+networkCode : 301
+
+
+[202.152.5.22][14:56:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805145639
+msgSTAN : 009118
+networkCode : 301
+
+
+[202.152.5.22][15:06:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805080639
+msgSTAN : 009119
+networkCode : 301
+
+
+[202.152.5.22][15:06:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805150639
+msgSTAN : 009119
+networkCode : 301
+
+
+[202.152.5.22][15:16:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805081639
+msgSTAN : 009120
+networkCode : 301
+
+
+[202.152.5.22][15:16:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805151639
+msgSTAN : 009120
+networkCode : 301
+
+
+[202.152.5.22][15:26:39] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805082639
+msgSTAN : 009121
+networkCode : 301
+
+
+[202.152.5.22][15:26:39] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805152639
+msgSTAN : 009121
+networkCode : 301
+
+
+[202.152.5.22][15:36:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805083639
+msgSTAN : 009122
+networkCode : 301
+
+
+[202.152.5.22][15:36:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805153640
+msgSTAN : 009122
+networkCode : 301
+
+
+[202.152.5.22][15:46:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805084640
+msgSTAN : 009123
+networkCode : 301
+
+
+[202.152.5.22][15:46:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805154640
+msgSTAN : 009123
+networkCode : 301
+
+
+[202.152.5.22][15:56:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805085640
+msgSTAN : 009124
+networkCode : 301
+
+
+[202.152.5.22][15:56:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805155640
+msgSTAN : 009124
+networkCode : 301
+
+
+[202.152.5.22][16:06:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805090640
+msgSTAN : 009125
+networkCode : 301
+
+
+[202.152.5.22][16:06:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805160640
+msgSTAN : 009125
+networkCode : 301
+
+
+[202.152.5.22][16:16:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805091640
+msgSTAN : 009126
+networkCode : 301
+
+
+[202.152.5.22][16:16:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805161640
+msgSTAN : 009126
+networkCode : 301
+
+
+[202.152.5.22][16:26:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805092640
+msgSTAN : 009127
+networkCode : 301
+
+
+[202.152.5.22][16:26:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805162640
+msgSTAN : 009127
+networkCode : 301
+
+
+[202.152.5.22][16:36:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805093640
+msgSTAN : 009128
+networkCode : 301
+
+
+[202.152.5.22][16:36:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805163640
+msgSTAN : 009128
+networkCode : 301
+
+
+[202.152.5.22][16:46:40] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805094640
+msgSTAN : 009129
+networkCode : 301
+
+
+[202.152.5.22][16:46:40] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805164640
+msgSTAN : 009129
+networkCode : 301
+
+
+[202.152.5.22][16:56:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805095641
+msgSTAN : 009130
+networkCode : 301
+
+
+[202.152.5.22][16:56:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805165641
+msgSTAN : 009130
+networkCode : 301
+
+
+[202.152.5.22][17:06:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805100641
+msgSTAN : 009131
+networkCode : 301
+
+
+[202.152.5.22][17:06:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805170641
+msgSTAN : 009131
+networkCode : 301
+
+
+[202.152.5.22][17:16:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805101641
+msgSTAN : 009132
+networkCode : 301
+
+
+[202.152.5.22][17:16:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805171641
+msgSTAN : 009132
+networkCode : 301
+
+
+[202.152.5.22][17:26:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805102641
+msgSTAN : 009133
+networkCode : 301
+
+
+[202.152.5.22][17:26:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805172641
+msgSTAN : 009133
+networkCode : 301
+
+
+[202.152.5.22][17:36:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805103641
+msgSTAN : 009134
+networkCode : 301
+
+
+[202.152.5.22][17:36:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805173641
+msgSTAN : 009134
+networkCode : 301
+
+
+[202.152.5.22][17:46:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805104641
+msgSTAN : 009135
+networkCode : 301
+
+
+[202.152.5.22][17:46:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805174641
+msgSTAN : 009135
+networkCode : 301
+
+
+[202.152.5.22][17:56:41] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805105641
+msgSTAN : 009136
+networkCode : 301
+
+
+[202.152.5.22][17:56:41] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805175641
+msgSTAN : 009136
+networkCode : 301
+
+
+[202.152.5.22][18:06:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805110641
+msgSTAN : 009137
+networkCode : 301
+
+
+[202.152.5.22][18:06:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805180642
+msgSTAN : 009137
+networkCode : 301
+
+
+[202.152.5.22][18:16:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805111642
+msgSTAN : 009138
+networkCode : 301
+
+
+[202.152.5.22][18:16:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805181642
+msgSTAN : 009138
+networkCode : 301
+
+
+[202.152.5.22][18:26:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805112642
+msgSTAN : 009139
+networkCode : 301
+
+
+[202.152.5.22][18:26:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805182642
+msgSTAN : 009139
+networkCode : 301
+
+
+[202.152.5.22][18:36:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805113642
+msgSTAN : 009140
+networkCode : 301
+
+
+[202.152.5.22][18:36:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805183642
+msgSTAN : 009140
+networkCode : 301
+
+
+[202.152.5.22][18:46:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805114642
+msgSTAN : 009141
+networkCode : 301
+
+
+[202.152.5.22][18:46:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805184642
+msgSTAN : 009141
+networkCode : 301
+
+
+[202.152.5.22][18:56:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805115642
+msgSTAN : 009142
+networkCode : 301
+
+
+[202.152.5.22][18:56:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805185642
+msgSTAN : 009142
+networkCode : 301
+
+
+[202.152.5.22][19:06:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805120642
+msgSTAN : 009143
+networkCode : 301
+
+
+[202.152.5.22][19:06:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805190642
+msgSTAN : 009143
+networkCode : 301
+
+
+[202.152.5.22][19:16:42] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805121642
+msgSTAN : 009144
+networkCode : 301
+
+
+[202.152.5.22][19:16:42] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805191642
+msgSTAN : 009144
+networkCode : 301
+
+
+[202.152.5.22][19:26:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805122643
+msgSTAN : 009145
+networkCode : 301
+
+
+[202.152.5.22][19:26:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805192643
+msgSTAN : 009145
+networkCode : 301
+
+
+[202.152.5.22][19:36:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805123643
+msgSTAN : 009146
+networkCode : 301
+
+
+[202.152.5.22][19:36:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805193643
+msgSTAN : 009146
+networkCode : 301
+
+
+[202.152.5.22][19:46:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805124643
+msgSTAN : 009147
+networkCode : 301
+
+
+[202.152.5.22][19:46:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805194643
+msgSTAN : 009147
+networkCode : 301
+
+
+[202.152.5.22][19:56:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805125643
+msgSTAN : 009148
+networkCode : 301
+
+
+[202.152.5.22][19:56:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805195643
+msgSTAN : 009148
+networkCode : 301
+
+
+[202.152.5.22][20:06:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805130643
+msgSTAN : 009149
+networkCode : 301
+
+
+[202.152.5.22][20:06:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805200643
+msgSTAN : 009149
+networkCode : 301
+
+
+[202.152.5.22][20:16:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805131643
+msgSTAN : 009150
+networkCode : 301
+
+
+[202.152.5.22][20:16:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805201643
+msgSTAN : 009150
+networkCode : 301
+
+
+[202.152.5.22][20:26:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805132643
+msgSTAN : 009151
+networkCode : 301
+
+
+[202.152.5.22][20:26:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805202643
+msgSTAN : 009151
+networkCode : 301
+
+
+[202.152.5.22][20:36:43] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805133643
+msgSTAN : 009152
+networkCode : 301
+
+
+[202.152.5.22][20:36:43] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805203643
+msgSTAN : 009152
+networkCode : 301
+
+
+[202.152.5.22][20:46:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805134644
+msgSTAN : 009153
+networkCode : 301
+
+
+[202.152.5.22][20:46:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805204644
+msgSTAN : 009153
+networkCode : 301
+
+
+[202.152.5.22][20:56:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805135644
+msgSTAN : 009154
+networkCode : 301
+
+
+[202.152.5.22][20:56:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805205644
+msgSTAN : 009154
+networkCode : 301
+
+
+[202.152.5.22][21:06:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805140644
+msgSTAN : 009155
+networkCode : 301
+
+
+[202.152.5.22][21:06:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805210644
+msgSTAN : 009155
+networkCode : 301
+
+
+[202.152.5.22][21:16:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805141644
+msgSTAN : 009156
+networkCode : 301
+
+
+[202.152.5.22][21:16:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805211644
+msgSTAN : 009156
+networkCode : 301
+
+
+[202.152.5.22][21:26:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805142644
+msgSTAN : 009157
+networkCode : 301
+
+
+[202.152.5.22][21:26:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805212644
+msgSTAN : 009157
+networkCode : 301
+
+
+[202.152.5.22][21:36:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805143644
+msgSTAN : 009158
+networkCode : 301
+
+
+[202.152.5.22][21:36:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805213644
+msgSTAN : 009158
+networkCode : 301
+
+
+[202.152.5.22][21:46:44] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805144644
+msgSTAN : 009159
+networkCode : 301
+
+
+[202.152.5.22][21:46:44] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805214644
+msgSTAN : 009159
+networkCode : 301
+
+
+[202.152.5.22][21:56:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805145644
+msgSTAN : 009160
+networkCode : 301
+
+
+[202.152.5.22][21:56:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805215645
+msgSTAN : 009160
+networkCode : 301
+
+
+[202.152.5.22][22:06:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805150645
+msgSTAN : 009161
+networkCode : 301
+
+
+[202.152.5.22][22:06:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805220645
+msgSTAN : 009161
+networkCode : 301
+
+
+[202.152.5.22][22:16:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805151645
+msgSTAN : 009162
+networkCode : 301
+
+
+[202.152.5.22][22:16:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805221645
+msgSTAN : 009162
+networkCode : 301
+
+
+[202.152.5.22][22:26:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805152645
+msgSTAN : 009163
+networkCode : 301
+
+
+[202.152.5.22][22:26:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805222645
+msgSTAN : 009163
+networkCode : 301
+
+
+[202.152.5.22][22:36:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805153645
+msgSTAN : 009164
+networkCode : 301
+
+
+[202.152.5.22][22:36:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805223645
+msgSTAN : 009164
+networkCode : 301
+
+
+[202.152.5.22][22:46:45] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805154645
+msgSTAN : 009165
+networkCode : 301
+
+
+[202.152.5.22][22:46:45] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805224645
+msgSTAN : 009165
+networkCode : 301
+
+
+[202.152.5.22][22:56:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805155645
+msgSTAN : 009166
+networkCode : 301
+
+
+[202.152.5.22][22:56:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805225646
+msgSTAN : 009166
+networkCode : 301
+
+
+[202.152.5.22][23:06:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805160646
+msgSTAN : 009167
+networkCode : 301
+
+
+[202.152.5.22][23:06:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805230646
+msgSTAN : 009167
+networkCode : 301
+
+
+[202.152.5.22][23:16:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805161646
+msgSTAN : 009168
+networkCode : 301
+
+
+[202.152.5.22][23:16:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805231646
+msgSTAN : 009168
+networkCode : 301
+
+
+[202.152.5.22][23:26:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805162646
+msgSTAN : 009169
+networkCode : 301
+
+
+[202.152.5.22][23:26:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805232646
+msgSTAN : 009169
+networkCode : 301
+
+
+[202.152.5.22][23:36:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805163646
+msgSTAN : 009170
+networkCode : 301
+
+
+[202.152.5.22][23:36:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805233646
+msgSTAN : 009170
+networkCode : 301
+
+
+[202.152.5.22][23:46:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805164646
+msgSTAN : 009171
+networkCode : 301
+
+
+[202.152.5.22][23:46:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805234646
+msgSTAN : 009171
+networkCode : 301
+
+
+[202.152.5.22][23:56:46] : QREchoTestRQ
+msgType : 0800
+transmissionDateTime : 0805165646
+msgSTAN : 009172
+networkCode : 301
+
+
+[202.152.5.22][23:56:46] : QREchoTestRS
+msgType : 0810
+transmissionDateTime : 0805235646
+msgSTAN : 009172
+networkCode : 301
