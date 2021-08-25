@@ -19,7 +19,8 @@
     
  2. Waktu tidak cukup
  
-#Query Test
+ 
+# Query Test
   - Nama File : Query_Test.txt
   - Contoh data :
     1. data_transaksi :
