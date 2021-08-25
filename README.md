@@ -1,5 +1,5 @@
-# API Routes :
-  1.1 Binary To Decimal (POST)
+# Coding Test :
+  1.1. Binary To Decimal (POST)
     
     URL   : http://localhost/api-test/v1/bintodec
     REQUEST_BODY :
@@ -8,7 +8,7 @@
         "output" : "binary"
     }
  
- 2.1 Decimal To Binary(POST)
+ 1.2. Decimal To Binary(POST)
     
     URL   : http://localhost/api-test/v1/bintodec
     REQUEST_BODY :
@@ -17,6 +17,8 @@
         "output" : "decimal"
     }
     
+ 2. Waktu tidak cukup
+ 
 #Query Test
   - Nama File : Query_Test.txt
   - Contoh data :
