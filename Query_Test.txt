@@ -1,0 +1,32 @@
+QUERY TEST :
+
+CREATE DATABASE `api-test`;
+1. 
+CREATE TABLE `data_transaksi` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `tgl_order` datetime DEFAULT NULL,
+  `status_pelunasan` varchar(20) DEFAULT NULL,
+  `tgl_pembayaran` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+2.
+CREATE TABLE `detail_transaksi` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id_transaksi` int(11) NOT NULL,
+  `harga` int(20) DEFAULT NULL,
+  `jumlah` int(10) DEFAULT NULL,
+  `subtotal` int(50) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+3.Query :
+SELECT a.id,
+	a.tgl_order,
+	a.status_pelunasan AS `status`,
+	a.tgl_pembayaran,
+	b.subtotal AS total,
+	b.jumlah AS jumlah_barang
+FROM data_transaksi a
+LEFT JOIN detail_transaksi b ON b.id_transaksi = a.id
+ORDER BY a.id ASC;
